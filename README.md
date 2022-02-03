@@ -7,3 +7,6 @@ A linear regression ML models has been developed and trained using training data
 For this project, we have used the 'LSAT' features from the dataset where LSTAT stands for the percentage lower status of the population. Lower the LSTAT, lower are the house prices.
 
 We then minimize the error function using Mean squared error method. Visualization techniques are deployed to get animated visualization of the training of regression line. 
+
+Do check out my explation video
+https://youtu.be/rfelctm4UIc
