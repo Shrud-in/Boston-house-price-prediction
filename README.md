@@ -8,5 +8,4 @@ For this project, we have used the 'LSAT' features from the dataset where LSTAT 
 
 We then minimize the error function using Mean squared error method. Visualization techniques are deployed to get animated visualization of the training of regression line. 
 
-Do check out my explation video
-https://youtu.be/rfelctm4UIc
+Do check out my explation video on [Youtube](https://youtu.be/rfelctm4UIc)
